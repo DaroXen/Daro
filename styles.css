@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('cielo.jpg'); /* Reemplaza con la URL de tu imagen de cielo */
+    background-image: url(https://services.meteored.com/img/article/por-que-el-cielo-se-torna-naranja-durante-el-atardecer-1684769231676_1280.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
