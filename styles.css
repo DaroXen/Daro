@@ -33,10 +33,10 @@ h1 {
 
 .bot-frame {
     position: absolute;
-    top: -48px; 
+    top: -50px; 
     left: 0;
     width: 100%;
-    height: calc(80% + 100px);
+    height: calc(100% + 100px);
     border: none;
     transform: scale(1.2);
     transform-origin: top left;
