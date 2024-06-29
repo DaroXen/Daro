@@ -25,7 +25,7 @@ h1 {
 .iframe-container {
     position: relative;
     width: 100%;
-    padding-top: 56.25%; /* Proporción 16:9 */
+    padding-top: 24.84%;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
