@@ -36,7 +36,7 @@ h1 {
     top: -25px; 
     left: 0;
     width: 100%;
-    height: calc(100% + 100px);
+    height: calc(100% + 10px);
     border: none;
     transform: scale(1.9);
     transform-origin: top left;
