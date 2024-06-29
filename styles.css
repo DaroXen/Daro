@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(https://services.meteored.com/img/article/por-que-el-cielo-se-torna-naranja-durante-el-atardecer-1684769231676_1280.jpeg);
+    background-image: url(https://services.meteored.com/img/article/por-que-el-cielo-se-torna-naranja-durante-el-atardecer-1684769231676_1280.jpeg); /
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -22,22 +22,10 @@ h1 {
     color: #333;
 }
 
-.iframe-container {
-    position: relative;
+.bot-frame {
     width: 100%;
-    padding-top: 56.25%; /* Proporción 16:9 */
-    overflow: hidden;
+    height: 600px; /* Ajusta la altura según tus necesidades */
+    border: none;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.bot-frame {
-    position: absolute;
-    top: -50px; /* Ajusta este valor para mover el iframe */
-    left: 0;
-    width: 100%;
-    height: calc(100% + 100px); /* Ajusta este valor para expandir el iframe */
-    border: none;
-    transform: scale(1.2); /* Ajusta este valor para escalar el iframe */
-    transform-origin: top left;
 }
