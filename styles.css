@@ -25,7 +25,7 @@ h1 {
 .iframe-container {
     position: relative;
     width: 100%;
-    padding-top: 56.10%;
+    padding-top: 56.25%;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -33,11 +33,11 @@ h1 {
 
 .bot-frame {
     position: absolute;
-    top: -25px; 
+    top: -48px; 
     left: 0;
     width: 100%;
-    height: calc(80% + 10px);
+    height: calc(80% + 100px);
     border: none;
-    transform: scale(1.9);
+    transform: scale(1.2);
     transform-origin: top left;
 }
